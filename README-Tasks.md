@@ -1,6 +1,6 @@
-# 1 - Puppet
+# 1 - Ansible / (Tower - AWX)
 - nginx
-- create configuration files for Nginx to use server names update with puppet
+- create configuration files for Nginx to use server names update with ansible roles.
 - All dependencies of WordPress
 - Install MySQL
 - deploy WordPress
